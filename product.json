@@ -1,7 +1,6 @@
 {
     "sku": "T04 14-60538-1T/COC",
     "name": "Friesia Sofa",
-    "shortDescription": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed",
     "price": 1299,
     "salesPrice": 1100,
     "description": "Our Gardenia twin sleeper sofa with memory foam mattress is perfect for smaller spaces. Crafted by master upholsterers in California the Gardenia features superb comfort and classic styling at a great price. Built with an eco-friendly, kiln dried hardwood frame. Upholstered in a Bella Cocoa fabric with solid wood legs in a java finish. Or custom order from a variety of fabrics. Allow 6 to 8 weeks for custom orders.",
@@ -15,12 +14,24 @@
         "Legs": "Hevea Wood - Natural",
         "Filling": "Foam"
     },
-    "categoryId": 12,
+    "productCategory": {
+    	"idCategory": 1,
+    	"category": "OFFICE (WORKSPACE)"
+    	"subCategory": {
+    		"idSubCategory": 2,
+    		"subCategory": "SEATING",
+    		"subSubCategory": {
+    			"idSubSubCategory": 2,
+    			"subSubCategory": "DESK CHAIRS"
+    		}
+    	}
+    },
     "video": "http://develop.moodley.at/DaniaCom/HtmlTemplates/Bin/video-natuzzi-sample.mp4",
     "stockingSwatches": [
         {
             "name": "Friesa Blue",
             "image": "http://develop.moodley.at/DaniaCom/HtmlTemplates/Images/Finishes/01_friesa_blue_small.jpg",
+            "sku" : "T04 14-60538-1T/COC1", //A different sku is used for similar products with different swatch. Hence, this data field is used to track which product sku the swatch belongs to. So when user add product to wishlist of the selected swatch, the correct product sku is stored.
             "productMain": "http://develop.moodley.at/DaniaCom/HtmlTemplates/Images/Furniture/product_detail_friesa_01.jpg",
             "productMainHover": "http://develop.moodley.at/DaniaCom/HtmlTemplates/Images/Furniture/product_detail_friesa_02.jpg",
             "productSmallMain": "http://develop.moodley.at/DaniaCom/HtmlTemplates/Images/Furniture/product_detail_friesa_01_small.jpg",
@@ -28,6 +39,7 @@
         },
         {
             "name": "Wabern Mist",
+            "sku" : "T04 14-60538-1T/COC2",
             "image": "http://develop.moodley.at/DaniaCom/HtmlTemplates/Images/Finishes/02_wabern_mist_small.jpg",
             "productMain": "http://develop.moodley.at/DaniaCom/HtmlTemplates/Images/Furniture/product_detail_friesa_01_wabern-mist.jpg",
             "productMainHover": "http://develop.moodley.at/DaniaCom/HtmlTemplates/Images/Furniture/product_detail_friesa_02_wabern-mist.jpg",
@@ -36,6 +48,7 @@
         },
         {
             "name": "Lil Pearl",
+            "sku" : "T04 14-60538-1T/COC3",
             "image": "http://develop.moodley.at/DaniaCom/HtmlTemplates/Images/Finishes/03_lil_pearl_small.jpg",
             "productMain": "http://develop.moodley.at/DaniaCom/HtmlTemplates/Images/Furniture/product_detail_friesa_01.jpg",
             "productMainHover": "http://develop.moodley.at/DaniaCom/HtmlTemplates/Images/Furniture/product_detail_friesa_02.jpg",
@@ -44,6 +57,7 @@
         },
         {
             "name": "Delight Navy",
+            "sku" : "T04 14-60538-1T/COC4",
             "image": "http://develop.moodley.at/DaniaCom/HtmlTemplates/Images/Finishes/04_delight_navy_small.jpg",
             "productMain": "http://develop.moodley.at/DaniaCom/HtmlTemplates/Images/Furniture/product_detail_friesa_01_wabern-mist.jpg",
             "productMainHover": "http://develop.moodley.at/DaniaCom/HtmlTemplates/Images/Furniture/product_detail_friesa_02_wabern-mist.jpg",
@@ -52,6 +66,7 @@
         },
         {
             "name": "Delight Grass",
+            "sku" : "T04 14-60538-1T/COC5",
             "image": "http://develop.moodley.at/DaniaCom/HtmlTemplates/Images/Finishes/05_delight_grass_small.jpg",
             "productMain": "http://develop.moodley.at/DaniaCom/HtmlTemplates/Images/Furniture/product_detail_friesa_01.jpg",
             "productMainHover": "http://develop.moodley.at/DaniaCom/HtmlTemplates/Images/Furniture/product_detail_friesa_02.jpg",
