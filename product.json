@@ -1,0 +1,154 @@
+{
+    "sku": "T04 14-60538-1T/COC",
+    "name": "Friesia Sofa",
+    "shortDescription": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed",
+    "price": 1299,
+    "salesPrice": 1100,
+    "description": "Our Gardenia twin sleeper sofa with memory foam mattress is perfect for smaller spaces. Crafted by master upholsterers in California the Gardenia features superb comfort and classic styling at a great price. Built with an eco-friendly, kiln dried hardwood frame. Upholstered in a Bella Cocoa fabric with solid wood legs in a java finish. Or custom order from a variety of fabrics. Allow 6 to 8 weeks for custom orders.",
+    "thumbnailImage": "http://develop.moodley.at/DaniaCom/HtmlTemplates/Images/Furniture/home_table.png",
+    "details": {
+        "Overall Dimensions": "95\" W x 41\" D x 33\" H",
+        "Seat Height": "18\" H",
+        "Arm Height": "26\" H",
+        "Leg Height": "5.5\"",
+        "Frame": "Solid Maple and Plywood",
+        "Legs": "Hevea Wood - Natural",
+        "Filling": "Foam"
+    },
+    "categoryId": 12,
+    "video": "http://develop.moodley.at/DaniaCom/HtmlTemplates/Bin/video-natuzzi-sample.mp4",
+    "stockingSwatches": [
+        {
+            "name": "Friesa Blue",
+            "image": "http://develop.moodley.at/DaniaCom/HtmlTemplates/Images/Finishes/01_friesa_blue_small.jpg",
+            "productMain": "http://develop.moodley.at/DaniaCom/HtmlTemplates/Images/Furniture/product_detail_friesa_01.jpg",
+            "productMainHover": "http://develop.moodley.at/DaniaCom/HtmlTemplates/Images/Furniture/product_detail_friesa_02.jpg",
+            "productSmallMain": "http://develop.moodley.at/DaniaCom/HtmlTemplates/Images/Furniture/product_detail_friesa_01_small.jpg",
+            "productSmallMainHover": "http://develop.moodley.at/DaniaCom/HtmlTemplates/Images/Furniture/product_detail_friesa_02_small.jpg"
+        },
+        {
+            "name": "Wabern Mist",
+            "image": "http://develop.moodley.at/DaniaCom/HtmlTemplates/Images/Finishes/02_wabern_mist_small.jpg",
+            "productMain": "http://develop.moodley.at/DaniaCom/HtmlTemplates/Images/Furniture/product_detail_friesa_01_wabern-mist.jpg",
+            "productMainHover": "http://develop.moodley.at/DaniaCom/HtmlTemplates/Images/Furniture/product_detail_friesa_02_wabern-mist.jpg",
+            "productSmallMain": "http://develop.moodley.at/DaniaCom/HtmlTemplates/Images/Furniture/product_detail_friesa_01_small_wabern-mist.jpg",
+            "productSmallMainHover": "http://develop.moodley.at/DaniaCom/HtmlTemplates/Images/Furniture/product_detail_friesa_02_small_wabern-mist.jpg"
+        },
+        {
+            "name": "Lil Pearl",
+            "image": "http://develop.moodley.at/DaniaCom/HtmlTemplates/Images/Finishes/03_lil_pearl_small.jpg",
+            "productMain": "http://develop.moodley.at/DaniaCom/HtmlTemplates/Images/Furniture/product_detail_friesa_01.jpg",
+            "productMainHover": "http://develop.moodley.at/DaniaCom/HtmlTemplates/Images/Furniture/product_detail_friesa_02.jpg",
+            "productSmallMain": "http://develop.moodley.at/DaniaCom/HtmlTemplates/Images/Furniture/product_detail_friesa_01_small.jpg",
+            "productSmallMainHover": "http://develop.moodley.at/DaniaCom/HtmlTemplates/Images/Furniture/product_detail_friesa_02_small.jpg"
+        },
+        {
+            "name": "Delight Navy",
+            "image": "http://develop.moodley.at/DaniaCom/HtmlTemplates/Images/Finishes/04_delight_navy_small.jpg",
+            "productMain": "http://develop.moodley.at/DaniaCom/HtmlTemplates/Images/Furniture/product_detail_friesa_01_wabern-mist.jpg",
+            "productMainHover": "http://develop.moodley.at/DaniaCom/HtmlTemplates/Images/Furniture/product_detail_friesa_02_wabern-mist.jpg",
+            "productSmallMain": "http://develop.moodley.at/DaniaCom/HtmlTemplates/Images/Furniture/product_detail_friesa_01_small_wabern-mist.jpg",
+            "productSmallMainHover": "http://develop.moodley.at/DaniaCom/HtmlTemplates/Images/Furniture/product_detail_friesa_02_small_wabern-mist.jpg"
+        },
+        {
+            "name": "Delight Grass",
+            "image": "http://develop.moodley.at/DaniaCom/HtmlTemplates/Images/Finishes/05_delight_grass_small.jpg",
+            "productMain": "http://develop.moodley.at/DaniaCom/HtmlTemplates/Images/Furniture/product_detail_friesa_01.jpg",
+            "productMainHover": "http://develop.moodley.at/DaniaCom/HtmlTemplates/Images/Furniture/product_detail_friesa_02.jpg",
+            "productSmallMain": "http://develop.moodley.at/DaniaCom/HtmlTemplates/Images/Furniture/product_detail_friesa_01_small.jpg",
+            "productSmallMainHover": "http://develop.moodley.at/DaniaCom/HtmlTemplates/Images/Furniture/product_detail_friesa_02_small.jpg"
+        }
+    ],
+    "customSwatches": [
+        {
+            "name": "Leather finishes",
+            "nameDropDown": "Leather",
+            "items": [
+                {
+                    "name": "Friesia Blue",
+                    "image": "http://develop.moodley.at/DaniaCom/HtmlTemplates/Images/Finishes/01_friesa_blue.jpg"
+                },
+                {
+                    "name": "Wabern Mist",
+                    "image": "http://develop.moodley.at/DaniaCom/HtmlTemplates/Images/Finishes/02_wabern_mist.jpg"
+                },
+                {
+                    "name": "Lil Pearl",
+                    "image": "http://develop.moodley.at/DaniaCom/HtmlTemplates/Images/Finishes/03_lil_pearl.jpg"
+                },
+                {
+                    "name": "Delight Navy",
+                    "image": "http://develop.moodley.at/DaniaCom/HtmlTemplates/Images/Finishes/04_delight_navy.jpg"
+                },
+                {
+                    "name": "Delight Grass",
+                    "image": "http://develop.moodley.at/DaniaCom/HtmlTemplates/Images/Finishes/05_delight_grass.jpg"
+                }
+            ]
+        },
+        {
+            "name": "Fabric finishes",
+            "nameDropDown": "Fabric",
+            "items": [
+                {
+                    "name": "Diplomat Mushroom",
+                    "image": "http://develop.moodley.at/DaniaCom/HtmlTemplates/Images/Finishes/06_diplomat_mushroom.jpg"
+                },
+                {
+                    "name": "Tivo Red",
+                    "image": "http://develop.moodley.at/DaniaCom/HtmlTemplates/Images/Finishes/07_tivo_red.jpg"
+                }
+            ]
+        }
+    ],
+    "gallery": [
+        {
+            "big": "http://develop.moodley.at/DaniaCom/HtmlTemplates/Images/Furniture/product_gallery_friesa_01.jpg",
+            "small": "http://develop.moodley.at/DaniaCom/HtmlTemplates/Images/Furniture/product_gallery_friesa_01_small.jpg"
+        },
+        {
+            "big": "http://develop.moodley.at/DaniaCom/HtmlTemplates/Images/Furniture/product_gallery_friesa_02.jpg",
+            "small": "http://develop.moodley.at/DaniaCom/HtmlTemplates/Images/Furniture/product_gallery_friesa_02_small.jpg"
+        },
+        {
+            "big": "http://develop.moodley.at/DaniaCom/HtmlTemplates/Images/Furniture/product_gallery_friesa_03.jpg",
+            "small": "http://develop.moodley.at/DaniaCom/HtmlTemplates/Images/Furniture/product_gallery_friesa_03_small.jpg"
+        }
+    ],
+    "complements": [
+        {
+            "name": "the Friesia collection",
+            "items": [
+                {
+                    "sku": "T04 14-60538-1T/COC",
+                    "name": "Friesia Table",
+                    "shortDescription": "Made in the USA, the Friesia has a great mid century modern design...",
+                    "price": 1299,
+                    "salesPrice": 1100,
+                    "thumbnailImage": "http://develop.moodley.at/DaniaCom/HtmlTemplates/Images/Furniture/home_table.png"
+                },
+                {
+                    "sku": "T04 14-60538-1T/COC",
+                    "name": "Friesia Table",
+                    "shortDescription": "Made in the USA, the Friesia has a great mid century modern design...",
+                    "price": 1299,
+                    "salesPrice": 1100,
+                    "thumbnailImage": "http://develop.moodley.at/DaniaCom/HtmlTemplates/Images/Furniture/home_table.png"
+                }
+            ]
+        },
+        {
+            "name": "goes well with",
+            "items": [
+                {
+                    "sku": "T04 14-60538-1T/COC",
+                    "name": "Arabella Console Table",
+                    "shortDescription": "Drawing from the midcentury design influences, the Brighton features a glass table top...",
+                    "price": 1299,
+                    "salesPrice": 1100,
+                    "thumbnailImage": "http://develop.moodley.at/DaniaCom/HtmlTemplates/Images/Furniture/home_storage.png"
+                }
+            ]
+        }
+    ]
+}
